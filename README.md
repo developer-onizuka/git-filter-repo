@@ -2,8 +2,8 @@
 
 # 0. Install git-filter-repo
 ```
-apt install python3-pip
-pip3 install git-filter-repo
+sudo apt install python3-pip
+sudo pip3 install git-filter-repo
 ```
 
 # 1. Make the file of mailmap
