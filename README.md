@@ -16,6 +16,10 @@ git clone https://github.com/$user/$repo
 cd $repo
 ```
 ```
+git config --global user.email
+git config --global user.name
+```
+```
 cat <<EOF > mailmap
 <xxxxxxxx+id@users.noreply.github.com> <email@example.com>
 EOF
